@@ -12,7 +12,7 @@ variables:
     # Deployment location
     location: 'West Europe'
     # Base URI for ARM templates
-    templateBaseUrl: 'https://raw.githubusercontent.com/andrewmatveychuk/azure.policy/master'
+    templateBaseUrl: 'https://raw.githubusercontent.com/nithinmohantk/azure.policy/master'
 
 stages:
 
